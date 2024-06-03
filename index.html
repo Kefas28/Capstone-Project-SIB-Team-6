@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css">
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="navbar-logo">
+                <a href="#">Dashboard Team 6 Surabaya</a>
+            </div>
+            <ul class="navbar-menu">
+                <li><a href="#">Home</a></li>
+                <li><a href="menu/contact.html">Story</a></li>
+                <li><a href="menu/profil.html">Profil</a></li>
+                <li><a href="menu/contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="total-section">
+        <section class="card-container">
+            <article class="card">
+                <h3>Total Revenue</h3>
+                <p id="totalRevenue">$0</p>
+            </article>
+            <article class="card">
+                <h3>Total Customers</h3>
+                <p id="totalCustomers">0</p>
+            </article>
+            <article class="card">
+                <h3>Total Products</h3>
+                <p id="totalProducts">0</p>
+            </article>
+            <article class="card">
+                <h3>Total Orders</h3>
+                <p id="totalOrders">0</p>
+            </article>
+        </section>
+    </main>
+
+    <main class="dashboard-container">
+        <section class="dashboard-left">
+            <article class="left-box large">
+                <h2>Sum of Revenue</h2>
+                <canvas id="sumOfRevenue"></canvas>
+            </article>
+            <article class="left-box large">
+                <h2>Revenue by Country</h2>
+                <canvas id="pieSegment"></canvas>
+            </article>
+            <article class="left-box large">
+                <h2>Average Revenue</h2>
+                <canvas id="avgRevenue"></canvas>
+            </article>
+        </section>
+
+        <section class="dashboard-right">
+            <article class="right-box large">
+                <h2>Monthly Revenue</h2>
+                <canvas id="monthlyRevenue"></canvas>
+            </article>
+            <article class="right-box large">
+                <h2>Top Product Categories</h2>
+                <canvas id="topProductCategory"></canvas>
+            </article>
+            <article class="right-box large">
+                <h2>Revenue by Continent</h2>
+                <canvas id="monthlyRevenueByContinent"></canvas>
+            </article>
+        </section>
+    </main>
+    <!-- Add professional table -->
+    <article class="right-box large">
+        <h2>Product Data</h2>
+        <table id="productTable" class="display">
+            <thead>
+                <tr>
+                    <th>Year</th>
+                    <th>Country</th>
+                    <th>Product Category</th>
+                    <th>Revenue</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be populated by JavaScript -->
+            </tbody>
+        </table>
+    </article>
+
+    <footer>
+        <p>&copy; 2024 Dashboard Inc.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script/scriptChart.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/2.0.8/js/dataTables.js"></script>
+  
+</body>
+</html>

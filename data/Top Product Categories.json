@@ -1,0 +1,72 @@
+[
+    {
+        "Year": 2011,
+        "category": "Bikes",
+        "Revenue": 314319
+    },
+    {
+        "Year": 2012,
+        "category": "Bikes",
+        "Revenue": 211735
+    },
+    {
+        "Year": 2013,
+        "category": "Accessories",
+        "Revenue": 3116058
+    },
+    {
+        "Year": 2013,
+        "category": "Bikes",
+        "Revenue": 1140514
+    },
+    {
+        "Year": 2013,
+        "category": "Clothing",
+        "Revenue": 1049843
+    },
+    {
+        "Year": 2014,
+        "category": "Accessories",
+        "Revenue": 4005276
+    },
+    {
+        "Year": 2014,
+        "category": "Bikes",
+        "Revenue": 994935
+    },
+    {
+        "Year": 2014,
+        "category": "Clothing",
+        "Revenue": 1309069
+    },
+    {
+        "Year": 2015,
+        "category": "Accessories",
+        "Revenue": 3004276
+    },
+    {
+        "Year": 2015,
+        "category": "Bikes",
+        "Revenue": 833216
+    },
+    {
+        "Year": 2015,
+        "category": "Clothing",
+        "Revenue": 1029028
+    },
+    {
+        "Year": 2016,
+        "category": "Accessories",
+        "Revenue": 3835388
+    },
+    {
+        "Year": 2016,
+        "category": "Bikes",
+        "Revenue": 691251
+    },
+    {
+        "Year": 2016,
+        "category": "Clothing",
+        "Revenue": 1291346
+    }
+]

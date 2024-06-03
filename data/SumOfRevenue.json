@@ -1,0 +1,884 @@
+[
+    {
+        "Year": 2011,
+        "Segment": "Adults (35-64)",
+        "Country": "Australia",
+        "Revenue": 65074,
+        "Profit": 16640
+    },
+    {
+        "Year": 2011,
+        "Segment": "Adults (35-64)",
+        "Country": "Canada",
+        "Revenue": 10885,
+        "Profit": 3969
+    },
+    {
+        "Year": 2011,
+        "Segment": "Adults (35-64)",
+        "Country": "France",
+        "Revenue": 4396,
+        "Profit": 1082
+    },
+    {
+        "Year": 2011,
+        "Segment": "Adults (35-64)",
+        "Country": "Germany",
+        "Revenue": 15781,
+        "Profit": 4573
+    },
+    {
+        "Year": 2011,
+        "Segment": "Adults (35-64)",
+        "Country": "United Kingdom",
+        "Revenue": 11218,
+        "Profit": 4007
+    },
+    {
+        "Year": 2011,
+        "Segment": "Adults (35-64)",
+        "Country": "United States",
+        "Revenue": 48424,
+        "Profit": 14453
+    },
+    {
+        "Year": 2011,
+        "Segment": "Seniors (64+)",
+        "Country": "United States",
+        "Revenue": 950,
+        "Profit": 262
+    },
+    {
+        "Year": 2011,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Australia",
+        "Revenue": 29617,
+        "Profit": 7767
+    },
+    {
+        "Year": 2011,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Canada",
+        "Revenue": 7625,
+        "Profit": 2782
+    },
+    {
+        "Year": 2011,
+        "Segment": "Young Adults (25-34)",
+        "Country": "France",
+        "Revenue": 11248,
+        "Profit": 2614
+    },
+    {
+        "Year": 2011,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Germany",
+        "Revenue": 5501,
+        "Profit": 1699
+    },
+    {
+        "Year": 2011,
+        "Segment": "Young Adults (25-34)",
+        "Country": "United Kingdom",
+        "Revenue": 5648,
+        "Profit": 1971
+    },
+    {
+        "Year": 2011,
+        "Segment": "Young Adults (25-34)",
+        "Country": "United States",
+        "Revenue": 36293,
+        "Profit": 11009
+    },
+    {
+        "Year": 2011,
+        "Segment": "Youth (<25)",
+        "Country": "Australia",
+        "Revenue": 42543,
+        "Profit": 10858
+    },
+    {
+        "Year": 2011,
+        "Segment": "Youth (<25)",
+        "Country": "Canada",
+        "Revenue": 535,
+        "Profit": 191
+    },
+    {
+        "Year": 2011,
+        "Segment": "Youth (<25)",
+        "Country": "France",
+        "Revenue": 2334,
+        "Profit": 589
+    },
+    {
+        "Year": 2011,
+        "Segment": "Youth (<25)",
+        "Country": "United Kingdom",
+        "Revenue": 2810,
+        "Profit": 1014
+    },
+    {
+        "Year": 2011,
+        "Segment": "Youth (<25)",
+        "Country": "United States",
+        "Revenue": 13437,
+        "Profit": 3551
+    },
+    {
+        "Year": 2012,
+        "Segment": "Adults (35-64)",
+        "Country": "Australia",
+        "Revenue": 70202,
+        "Profit": 18266
+    },
+    {
+        "Year": 2012,
+        "Segment": "Adults (35-64)",
+        "Country": "France",
+        "Revenue": 886,
+        "Profit": 198
+    },
+    {
+        "Year": 2012,
+        "Segment": "Adults (35-64)",
+        "Country": "Germany",
+        "Revenue": 8318,
+        "Profit": 2224
+    },
+    {
+        "Year": 2012,
+        "Segment": "Adults (35-64)",
+        "Country": "United States",
+        "Revenue": 19085,
+        "Profit": 4217
+    },
+    {
+        "Year": 2012,
+        "Segment": "Seniors (64+)",
+        "Country": "United States",
+        "Revenue": 842,
+        "Profit": 154
+    },
+    {
+        "Year": 2012,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Australia",
+        "Revenue": 12398,
+        "Profit": 2766
+    },
+    {
+        "Year": 2012,
+        "Segment": "Young Adults (25-34)",
+        "Country": "France",
+        "Revenue": 10759,
+        "Profit": 2503
+    },
+    {
+        "Year": 2012,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Germany",
+        "Revenue": 8790,
+        "Profit": 2696
+    },
+    {
+        "Year": 2012,
+        "Segment": "Young Adults (25-34)",
+        "Country": "United States",
+        "Revenue": 8681,
+        "Profit": 1801
+    },
+    {
+        "Year": 2012,
+        "Segment": "Youth (<25)",
+        "Country": "Australia",
+        "Revenue": 61583,
+        "Profit": 16637
+    },
+    {
+        "Year": 2012,
+        "Segment": "Youth (<25)",
+        "Country": "France",
+        "Revenue": 1771,
+        "Profit": 395
+    },
+    {
+        "Year": 2012,
+        "Segment": "Youth (<25)",
+        "Country": "United States",
+        "Revenue": 8420,
+        "Profit": 1540
+    },
+    {
+        "Year": 2013,
+        "Segment": "Adults (35-64)",
+        "Country": "Australia",
+        "Revenue": 481217,
+        "Profit": 194002
+    },
+    {
+        "Year": 2013,
+        "Segment": "Adults (35-64)",
+        "Country": "Canada",
+        "Revenue": 351393,
+        "Profit": 200694
+    },
+    {
+        "Year": 2013,
+        "Segment": "Adults (35-64)",
+        "Country": "France",
+        "Revenue": 203477,
+        "Profit": 91348
+    },
+    {
+        "Year": 2013,
+        "Segment": "Adults (35-64)",
+        "Country": "Germany",
+        "Revenue": 205529,
+        "Profit": 98503
+    },
+    {
+        "Year": 2013,
+        "Segment": "Adults (35-64)",
+        "Country": "United Kingdom",
+        "Revenue": 318475,
+        "Profit": 163545
+    },
+    {
+        "Year": 2013,
+        "Segment": "Adults (35-64)",
+        "Country": "United States",
+        "Revenue": 878949,
+        "Profit": 428984
+    },
+    {
+        "Year": 2013,
+        "Segment": "Seniors (64+)",
+        "Country": "Australia",
+        "Revenue": 4609,
+        "Profit": 2230
+    },
+    {
+        "Year": 2013,
+        "Segment": "Seniors (64+)",
+        "Country": "Canada",
+        "Revenue": 5529,
+        "Profit": 3374
+    },
+    {
+        "Year": 2013,
+        "Segment": "Seniors (64+)",
+        "Country": "France",
+        "Revenue": 1890,
+        "Profit": 601
+    },
+    {
+        "Year": 2013,
+        "Segment": "Seniors (64+)",
+        "Country": "Germany",
+        "Revenue": 3352,
+        "Profit": 1419
+    },
+    {
+        "Year": 2013,
+        "Segment": "Seniors (64+)",
+        "Country": "United Kingdom",
+        "Revenue": 2597,
+        "Profit": 1625
+    },
+    {
+        "Year": 2013,
+        "Segment": "Seniors (64+)",
+        "Country": "United States",
+        "Revenue": 7890,
+        "Profit": 3535
+    },
+    {
+        "Year": 2013,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Australia",
+        "Revenue": 431298,
+        "Profit": 176304
+    },
+    {
+        "Year": 2013,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Canada",
+        "Revenue": 211646,
+        "Profit": 116639
+    },
+    {
+        "Year": 2013,
+        "Segment": "Young Adults (25-34)",
+        "Country": "France",
+        "Revenue": 226406,
+        "Profit": 90261
+    },
+    {
+        "Year": 2013,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Germany",
+        "Revenue": 227376,
+        "Profit": 100727
+    },
+    {
+        "Year": 2013,
+        "Segment": "Young Adults (25-34)",
+        "Country": "United Kingdom",
+        "Revenue": 215313,
+        "Profit": 104102
+    },
+    {
+        "Year": 2013,
+        "Segment": "Young Adults (25-34)",
+        "Country": "United States",
+        "Revenue": 667621,
+        "Profit": 316130
+    },
+    {
+        "Year": 2013,
+        "Segment": "Youth (<25)",
+        "Country": "Australia",
+        "Revenue": 221985,
+        "Profit": 86300
+    },
+    {
+        "Year": 2013,
+        "Segment": "Youth (<25)",
+        "Country": "Canada",
+        "Revenue": 104337,
+        "Profit": 58297
+    },
+    {
+        "Year": 2013,
+        "Segment": "Youth (<25)",
+        "Country": "France",
+        "Revenue": 71073,
+        "Profit": 32134
+    },
+    {
+        "Year": 2013,
+        "Segment": "Youth (<25)",
+        "Country": "Germany",
+        "Revenue": 61617,
+        "Profit": 29878
+    },
+    {
+        "Year": 2013,
+        "Segment": "Youth (<25)",
+        "Country": "United Kingdom",
+        "Revenue": 107987,
+        "Profit": 55381
+    },
+    {
+        "Year": 2013,
+        "Segment": "Youth (<25)",
+        "Country": "United States",
+        "Revenue": 294849,
+        "Profit": 146174
+    },
+    {
+        "Year": 2014,
+        "Segment": "Adults (35-64)",
+        "Country": "Australia",
+        "Revenue": 646972,
+        "Profit": 273269
+    },
+    {
+        "Year": 2014,
+        "Segment": "Adults (35-64)",
+        "Country": "Canada",
+        "Revenue": 470759,
+        "Profit": 268540
+    },
+    {
+        "Year": 2014,
+        "Segment": "Adults (35-64)",
+        "Country": "France",
+        "Revenue": 266815,
+        "Profit": 124851
+    },
+    {
+        "Year": 2014,
+        "Segment": "Adults (35-64)",
+        "Country": "Germany",
+        "Revenue": 299617,
+        "Profit": 141073
+    },
+    {
+        "Year": 2014,
+        "Segment": "Adults (35-64)",
+        "Country": "United Kingdom",
+        "Revenue": 393853,
+        "Profit": 209984
+    },
+    {
+        "Year": 2014,
+        "Segment": "Adults (35-64)",
+        "Country": "United States",
+        "Revenue": 1280492,
+        "Profit": 635034
+    },
+    {
+        "Year": 2014,
+        "Segment": "Seniors (64+)",
+        "Country": "Australia",
+        "Revenue": 3273,
+        "Profit": 1382
+    },
+    {
+        "Year": 2014,
+        "Segment": "Seniors (64+)",
+        "Country": "Canada",
+        "Revenue": 8107,
+        "Profit": 4993
+    },
+    {
+        "Year": 2014,
+        "Segment": "Seniors (64+)",
+        "Country": "France",
+        "Revenue": 3961,
+        "Profit": 1935
+    },
+    {
+        "Year": 2014,
+        "Segment": "Seniors (64+)",
+        "Country": "Germany",
+        "Revenue": 8341,
+        "Profit": 4672
+    },
+    {
+        "Year": 2014,
+        "Segment": "Seniors (64+)",
+        "Country": "United Kingdom",
+        "Revenue": 9552,
+        "Profit": 5651
+    },
+    {
+        "Year": 2014,
+        "Segment": "Seniors (64+)",
+        "Country": "United States",
+        "Revenue": 19885,
+        "Profit": 10518
+    },
+    {
+        "Year": 2014,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Australia",
+        "Revenue": 424372,
+        "Profit": 190220
+    },
+    {
+        "Year": 2014,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Canada",
+        "Revenue": 219305,
+        "Profit": 120979
+    },
+    {
+        "Year": 2014,
+        "Segment": "Young Adults (25-34)",
+        "Country": "France",
+        "Revenue": 292362,
+        "Profit": 120342
+    },
+    {
+        "Year": 2014,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Germany",
+        "Revenue": 315955,
+        "Profit": 143350
+    },
+    {
+        "Year": 2014,
+        "Segment": "Young Adults (25-34)",
+        "Country": "United Kingdom",
+        "Revenue": 309585,
+        "Profit": 151234
+    },
+    {
+        "Year": 2014,
+        "Segment": "Young Adults (25-34)",
+        "Country": "United States",
+        "Revenue": 584239,
+        "Profit": 291420
+    },
+    {
+        "Year": 2014,
+        "Segment": "Youth (<25)",
+        "Country": "Australia",
+        "Revenue": 157026,
+        "Profit": 69572
+    },
+    {
+        "Year": 2014,
+        "Segment": "Youth (<25)",
+        "Country": "Canada",
+        "Revenue": 86494,
+        "Profit": 48525
+    },
+    {
+        "Year": 2014,
+        "Segment": "Youth (<25)",
+        "Country": "France",
+        "Revenue": 82197,
+        "Profit": 37313
+    },
+    {
+        "Year": 2014,
+        "Segment": "Youth (<25)",
+        "Country": "Germany",
+        "Revenue": 112838,
+        "Profit": 55389
+    },
+    {
+        "Year": 2014,
+        "Segment": "Youth (<25)",
+        "Country": "United Kingdom",
+        "Revenue": 100468,
+        "Profit": 51679
+    },
+    {
+        "Year": 2014,
+        "Segment": "Youth (<25)",
+        "Country": "United States",
+        "Revenue": 212812,
+        "Profit": 112082
+    },
+    {
+        "Year": 2015,
+        "Segment": "Adults (35-64)",
+        "Country": "Australia",
+        "Revenue": 436661,
+        "Profit": 180210
+    },
+    {
+        "Year": 2015,
+        "Segment": "Adults (35-64)",
+        "Country": "Canada",
+        "Revenue": 326242,
+        "Profit": 187526
+    },
+    {
+        "Year": 2015,
+        "Segment": "Adults (35-64)",
+        "Country": "France",
+        "Revenue": 190243,
+        "Profit": 86723
+    },
+    {
+        "Year": 2015,
+        "Segment": "Adults (35-64)",
+        "Country": "Germany",
+        "Revenue": 187440,
+        "Profit": 92688
+    },
+    {
+        "Year": 2015,
+        "Segment": "Adults (35-64)",
+        "Country": "United Kingdom",
+        "Revenue": 285213,
+        "Profit": 147547
+    },
+    {
+        "Year": 2015,
+        "Segment": "Adults (35-64)",
+        "Country": "United States",
+        "Revenue": 808650,
+        "Profit": 397775
+    },
+    {
+        "Year": 2015,
+        "Segment": "Seniors (64+)",
+        "Country": "Australia",
+        "Revenue": 4580,
+        "Profit": 2215
+    },
+    {
+        "Year": 2015,
+        "Segment": "Seniors (64+)",
+        "Country": "Canada",
+        "Revenue": 5836,
+        "Profit": 3522
+    },
+    {
+        "Year": 2015,
+        "Segment": "Seniors (64+)",
+        "Country": "France",
+        "Revenue": 1689,
+        "Profit": 552
+    },
+    {
+        "Year": 2015,
+        "Segment": "Seniors (64+)",
+        "Country": "Germany",
+        "Revenue": 3218,
+        "Profit": 1354
+    },
+    {
+        "Year": 2015,
+        "Segment": "Seniors (64+)",
+        "Country": "United Kingdom",
+        "Revenue": 2370,
+        "Profit": 1489
+    },
+    {
+        "Year": 2015,
+        "Segment": "Seniors (64+)",
+        "Country": "United States",
+        "Revenue": 7501,
+        "Profit": 3444
+    },
+    {
+        "Year": 2015,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Australia",
+        "Revenue": 409696,
+        "Profit": 167907
+    },
+    {
+        "Year": 2015,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Canada",
+        "Revenue": 200764,
+        "Profit": 110557
+    },
+    {
+        "Year": 2015,
+        "Segment": "Young Adults (25-34)",
+        "Country": "France",
+        "Revenue": 201179,
+        "Profit": 82355
+    },
+    {
+        "Year": 2015,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Germany",
+        "Revenue": 205280,
+        "Profit": 93131
+    },
+    {
+        "Year": 2015,
+        "Segment": "Young Adults (25-34)",
+        "Country": "United Kingdom",
+        "Revenue": 191733,
+        "Profit": 94783
+    },
+    {
+        "Year": 2015,
+        "Segment": "Young Adults (25-34)",
+        "Country": "United States",
+        "Revenue": 605290,
+        "Profit": 290637
+    },
+    {
+        "Year": 2015,
+        "Segment": "Youth (<25)",
+        "Country": "Australia",
+        "Revenue": 201365,
+        "Profit": 81147
+    },
+    {
+        "Year": 2015,
+        "Segment": "Youth (<25)",
+        "Country": "Canada",
+        "Revenue": 99106,
+        "Profit": 55456
+    },
+    {
+        "Year": 2015,
+        "Segment": "Youth (<25)",
+        "Country": "France",
+        "Revenue": 67888,
+        "Profit": 30695
+    },
+    {
+        "Year": 2015,
+        "Segment": "Youth (<25)",
+        "Country": "Germany",
+        "Revenue": 57455,
+        "Profit": 28439
+    },
+    {
+        "Year": 2015,
+        "Segment": "Youth (<25)",
+        "Country": "United Kingdom",
+        "Revenue": 98405,
+        "Profit": 51446
+    },
+    {
+        "Year": 2015,
+        "Segment": "Youth (<25)",
+        "Country": "United States",
+        "Revenue": 268716,
+        "Profit": 136984
+    },
+    {
+        "Year": 2016,
+        "Segment": "Adults (35-64)",
+        "Country": "Australia",
+        "Revenue": 577441,
+        "Profit": 249445
+    },
+    {
+        "Year": 2016,
+        "Segment": "Adults (35-64)",
+        "Country": "Canada",
+        "Revenue": 447415,
+        "Profit": 255078
+    },
+    {
+        "Year": 2016,
+        "Segment": "Adults (35-64)",
+        "Country": "France",
+        "Revenue": 252830,
+        "Profit": 118213
+    },
+    {
+        "Year": 2016,
+        "Segment": "Adults (35-64)",
+        "Country": "Germany",
+        "Revenue": 278760,
+        "Profit": 132789
+    },
+    {
+        "Year": 2016,
+        "Segment": "Adults (35-64)",
+        "Country": "United Kingdom",
+        "Revenue": 364619,
+        "Profit": 196229
+    },
+    {
+        "Year": 2016,
+        "Segment": "Adults (35-64)",
+        "Country": "United States",
+        "Revenue": 1203049,
+        "Profit": 597706
+    },
+    {
+        "Year": 2016,
+        "Segment": "Seniors (64+)",
+        "Country": "Australia",
+        "Revenue": 3215,
+        "Profit": 1353
+    },
+    {
+        "Year": 2016,
+        "Segment": "Seniors (64+)",
+        "Country": "Canada",
+        "Revenue": 8265,
+        "Profit": 5091
+    },
+    {
+        "Year": 2016,
+        "Segment": "Seniors (64+)",
+        "Country": "France",
+        "Revenue": 4092,
+        "Profit": 2007
+    },
+    {
+        "Year": 2016,
+        "Segment": "Seniors (64+)",
+        "Country": "Germany",
+        "Revenue": 8469,
+        "Profit": 4744
+    },
+    {
+        "Year": 2016,
+        "Segment": "Seniors (64+)",
+        "Country": "United Kingdom",
+        "Revenue": 9203,
+        "Profit": 5425
+    },
+    {
+        "Year": 2016,
+        "Segment": "Seniors (64+)",
+        "Country": "United States",
+        "Revenue": 17400,
+        "Profit": 9357
+    },
+    {
+        "Year": 2016,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Australia",
+        "Revenue": 391046,
+        "Profit": 179547
+    },
+    {
+        "Year": 2016,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Canada",
+        "Revenue": 203845,
+        "Profit": 112348
+    },
+    {
+        "Year": 2016,
+        "Segment": "Young Adults (25-34)",
+        "Country": "France",
+        "Revenue": 252155,
+        "Profit": 107405
+    },
+    {
+        "Year": 2016,
+        "Segment": "Young Adults (25-34)",
+        "Country": "Germany",
+        "Revenue": 287509,
+        "Profit": 132698
+    },
+    {
+        "Year": 2016,
+        "Segment": "Young Adults (25-34)",
+        "Country": "United Kingdom",
+        "Revenue": 273482,
+        "Profit": 136636
+    },
+    {
+        "Year": 2016,
+        "Segment": "Young Adults (25-34)",
+        "Country": "United States",
+        "Revenue": 531815,
+        "Profit": 268915
+    },
+    {
+        "Year": 2016,
+        "Segment": "Youth (<25)",
+        "Country": "Australia",
+        "Revenue": 143320,
+        "Profit": 65015
+    },
+    {
+        "Year": 2016,
+        "Segment": "Youth (<25)",
+        "Country": "Canada",
+        "Revenue": 82612,
+        "Profit": 46497
+    },
+    {
+        "Year": 2016,
+        "Segment": "Youth (<25)",
+        "Country": "France",
+        "Revenue": 81766,
+        "Profit": 36850
+    },
+    {
+        "Year": 2016,
+        "Segment": "Youth (<25)",
+        "Country": "Germany",
+        "Revenue": 103566,
+        "Profit": 51828
+    },
+    {
+        "Year": 2016,
+        "Segment": "Youth (<25)",
+        "Country": "United Kingdom",
+        "Revenue": 87791,
+        "Profit": 46378
+    },
+    {
+        "Year": 2016,
+        "Segment": "Youth (<25)",
+        "Country": "United States",
+        "Revenue": 204320,
+        "Profit": 107778
+    }
+]
